@@ -1,0 +1,17 @@
+{
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite"
+	},
+	"dependencies": {
+		"@cycle/dom": "23.1.0",
+		"@cycle/run": "5.7.0",
+		"xstream": "11.14.0"
+	},
+	"devDependencies": {
+		"typescript": "5.8.2",
+		"vite": "6.2.0"
+	}
+}
